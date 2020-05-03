@@ -1,0 +1,5 @@
+containers-golang (0.3.2-0) focal; urgency=medium
+
+  * v0.3.2 debian/ubuntu packaging
+
+ -- Jonathan Springer <jonpspri@gmail.com>  Sun, 03 May 2020 22:54:02 -0400

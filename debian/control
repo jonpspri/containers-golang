@@ -1,0 +1,13 @@
+Source: containers-golang
+Section: devel
+Priority: optional
+Maintainer: Jonathan Springer <jonpspri@gmail.com>
+Build-Depends: debhelper-compat (= 12),
+Standards-Version: 4.4.1
+Homepage: https://github.com/seccomp/containers-golang
+Vcs-Browser: https://github.com/seccomp/containers-golang
+Vcs-Git: git://github.com/lsm5/containers-golang.git
+
+Package: containers-golang
+Architecture: all
+Description: Seccomp config for container tools
