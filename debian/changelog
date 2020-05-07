@@ -1,3 +1,9 @@
+containers-golang (0.3.2-1) focal; urgency=medium
+
+  * Change debhelper-compat to 11 to allow bionic builds
+
+ -- Jonathan Springer <jonpspri@gmail.com>  Thu, 07 May 2020 15:12:25 -0400
+
 containers-golang (0.3.2-0) focal; urgency=medium
 
   * v0.3.2 debian/ubuntu packaging
